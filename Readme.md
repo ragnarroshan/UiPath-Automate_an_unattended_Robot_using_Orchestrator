@@ -16,7 +16,7 @@ A valid Orchestrator License and Robot license.
 ### Step 1: Create a Process in UiPath Studio
 
 Design your automation in UiPath Studio. For example, you can create a simple process like extracting data from a file and logging the results.<br>
-After creating the process, publish it to Orchestrator:<br>
+After creatiing the process, publish it to Orchestrator:<br>
 Click on Publish in UiPath Studio.<br>
 Select Orchestrator as the destination.<br>
 Choose a version number and click Publish.
